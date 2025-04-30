@@ -17,4 +17,7 @@ FRONTEND:
 2.CSS3
 3.Vanilla JavaScript
 4.Canvas API
-#IMAGE
+
+#IMAGE:https://github.com/NAVANEETHA123456/Doodle-Jump-website-Game/blob/main/Screenshot%20(1094).png?raw=true
+
+#VIDEO LINK:
